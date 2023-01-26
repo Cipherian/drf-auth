@@ -12,6 +12,12 @@
 
   - Now uses authentication to verify users who an modify or look at specific objects
 
+- Updated 1/25/2023
+
+  - Added jwt authentication
+
+  - Switched to gunicorn in yml
+
 
 ## Config and Startup
 
